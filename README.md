@@ -1,5 +1,5 @@
 # MRI-Brain-Detector
-training a cnn model to detect MRI
+Training a cnn model to detect brain tumour through MRI images
 
 BRAIN MRI DETECTOR
 
